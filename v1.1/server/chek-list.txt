@@ -1,0 +1,23 @@
+1. Basic Auth ++
+2. Save usernames and mapping with SID on connection
+3. Send text message, replying, edting, deleting "for me and for everyone"
+3. Save chat history
+4. Send photo/video/audio/files and save them on S3
+5. Multiple chats
+6. Connecting with Sooperwise
+7. 
+
+
+
+python3 - interpreter fo 3.9.6
+/usr/local/bin/python3 - interpreter for 3.7.9
+/usr/local/bin/python3 -m venv venv - creating virtual environment named "venv" using Python 3.7.9
+source venv/bin/activate - to activate virtual environment
+deactivate - to deactivate virtual environment
+
+/usr/local/bin/python3 -m pip install eventlet - instal smthing for python 3.7.9
+
+brew install node - to install node js
+node -v - to check node js version
+
+
